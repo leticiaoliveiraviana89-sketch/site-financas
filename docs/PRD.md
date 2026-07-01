@@ -4,7 +4,7 @@
 
 ## Projeto
 
-**Nome do Projeto:** FinEdu – Plataforma de Finanças Pessoais para Estudantes
+**Nome do Projeto:** Finance – Plataforma de Finanças Pessoais para Estudantes
 
 **Versão:** 1.0
 
@@ -16,7 +16,7 @@
 
 ## Objetivo
 
-O FinEdu é uma plataforma web de educação financeira voltada para estudantes do Ensino Médio e adolescentes entre 14 e 18 anos. O objetivo é ensinar conceitos de finanças pessoais de forma simples, prática e interativa, ajudando os usuários a desenvolverem hábitos financeiros saudáveis desde cedo.
+A Finance é uma plataforma web de educação financeira voltada para estudantes do Ensino Médio e adolescentes entre 14 e 18 anos. O objetivo é ensinar conceitos de finanças pessoais de forma simples, prática e interativa, ajudando os usuários a desenvolverem hábitos financeiros saudáveis desde cedo.
 
 A plataforma busca tornar o aprendizado divertido, utilizando gráficos, metas, desafios e conteúdos educativos em uma linguagem acessível.
 
