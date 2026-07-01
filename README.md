@@ -1,3 +1,3 @@
 # site-financas
 
-# Diana e Letícia
+# Diana e Letícia e Eric
